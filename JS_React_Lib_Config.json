@@ -1,0 +1,10 @@
+{
+    "paths" : {
+        "react_lib" : "SuiteScripts/ReactSuitelet/JS_ReactLibrary"
+    },
+    "shim" : {
+        "react_lib" : {
+            "exports" : "JS_ReactLibrary"
+        }
+    }
+}
